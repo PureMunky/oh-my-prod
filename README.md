@@ -1,4 +1,4 @@
-# oh-my-prod
+# Oh My Prod
 A learning application for practicing debugging skills.
 
 ## Intent
